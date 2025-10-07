@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/qMCdxFQ/IMG-20241103-WA0162.jpg" group-title="⚽TIGO SPORTS SOLO EVENTOS",EVENTOS1 TIGO FULL HD
+#EXTINF:-1 tvg-logo="https://www.freepik.es/vector-premium/hecho-paraguay-vector-insignia-icono-aislado-diseno-signo-marca-origen-bandera-pais_37187416.htm#from_element=cross_selling__vector" group-title="🇵🇾TIGO-EVENTOS🇵🇾",EVENTOS1 TIGO FULL HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://dl.dropboxusercontent.com/scl/fi/bify73qa6pam1h5op5mg4/tigo3.json?rlkey=r2r6qmvzobpn1tib3n068ap1z&st=2jfgsr87&dl=0
 https://d3kzwqwnq1f7tq.cloudfront.net/out/v1/25ca218d53194065bedf6d998ace462e/index.mpd
