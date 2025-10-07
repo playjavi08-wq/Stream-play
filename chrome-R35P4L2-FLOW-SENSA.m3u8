@@ -15,6 +15,7 @@ https://d2jluxxgx550su.cloudfront.net/out/v1/62de20495af84f908fa8963f50c44d46/in
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://dl.dropbox.com/scl/fi/kg654aptb3wmdvhw1e06i/tigo3.json?rlkey=lz1ve7n2e77c4xylazzpn4qgz&st=vef4p50k&dl=0
 https://sam-py-edge01.tigo.com.py/ccur-session/67108593aa9246849b1d470a86e8c3441754240700491048540e0dd7411eda699affd7e3508edNmWP4jpKoOTQZ1SeAeUcwlQB/out/v1/c2cc7832b5b64aedacb0e459fd9d8398/index.mpd
+
 #EXTM3U url-tvg="https://albaforge.com/bin-cas6u/epg/an/EPG/ARGENTINA.xml.gz,https://albaforge.com/bin-cas6u/epg/an/EPG/FLOWTV.xml.gz,https://www.open-epg.com/files/argentina4.xml.gz,https://www.open-epg.com/files/uruguay2.xml.gz"
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
