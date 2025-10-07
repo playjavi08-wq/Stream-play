@@ -1,10 +1,9 @@
 #EXTM3U
 
-
-#EXTINF:0 group-title="🇵🇾TIGO 24/7🇵🇾" tvg-name="Tigo Sports 1" tvg-logo="https://i.ibb.co/n41kgCX/Tigo-Sports-2025.png" group-title="Paraguay",Tigo Sports 3
+#EXTINF:0 group-title="🇵🇾TIGO 24/7🇵🇾" tvg-name="Tigo Sports 3" tvg-logo="https://i.ibb.co/n41kgCX/Tigo-Sports-2025.png" group-title="Paraguay",Tigo Sports 3
 http://181.41.199.49:8000/play/a0hd/index.m3u8
 
-#EXTINF:0 group-title="🇵🇾TIGO 24/7🇵🇾" tvg-name="Tigo Sports 3" tvg-logo="https://i.ibb.co/n41kgCX/Tigo-Sports-2025.png" group-title="Paraguay",Tigo Sports 1
+#EXTINF:0 group-title="🇵🇾TIGO 24/7🇵🇾" tvg-name="Tigo Sports 1" tvg-logo="https://i.ibb.co/n41kgCX/Tigo-Sports-2025.png" group-title="Paraguay",Tigo Sports 1
 http://181.41.199.49:8000/play/a0c8/index.m3u8
 
 #EXTINF:-1 group-title="🇵🇾TIGO EVENTOS🇵🇾",EVENTOS1 TIGO FULL HD
